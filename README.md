@@ -15,19 +15,22 @@ Página com detalhes sobre a galeria, sua missão e história.<br>
 Galeria de obras de arte exibidas na Gallerie, com informações sobre cada peça.<br>
 
 <h3>Artists </h3>
-Perfil e portfólio de artistas que colaboram com a Gallerie.<br>
+Perfil e portfólio de artistas que colaboram com a Gallerie.<br></br>
 
-<h3>Tecnologias Utilizadas</h3><br>
+<h3>Tecnologias Utilizadas</h3>
 
-Front-end:
-Next.js
-React
-Tailwind CSS<br>
+<h4>Front-end: </h4><br>
+<div style="display: flex;">
+  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" style="width: 50px; margin-right: 10px;">
+  <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" style="width: 50px;">
+  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" style="width: 50px;">
 
-Back-end:
-JavaScript<br></br>
+</div><br>
 
-<h3>Como Executar o Projeto</h3><br>
+<h4>Back-end: </h4><br>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width: 50px;">
+
+<h3>Como Executar o Projeto</h3>
 
 ```bash
 Clone este repositório:
