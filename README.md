@@ -28,31 +28,25 @@ Back-end:
 JavaScript<br></br>
 
 <h3>Como Executar o Projeto</h3><br>
+
+```bash
 Clone este repositório:
+git clone https://github.com/AnaByo/gallerie.git
 
-bash
-Copy code
-git clone https://github.com/seu-usuario/gallerie.git
 Navegue até o diretório do projeto:
-
-bash
-Copy code
 cd gallerie
+
 Instale as dependências:
-
-bash
-Copy code
 npm install
-Execute o projeto:
 
-bash
-Copy code
+Execute o projeto:
 npm run dev
+```
 
 Abra seu navegador e acesse http://localhost:3000 para visualizar o site.
 
-Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
+<h2>Contribuição</h2>
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.<br>
 
-Licença
+<h2>Licença</h2>
 Este projeto está licenciado sob a Licença MIT.
